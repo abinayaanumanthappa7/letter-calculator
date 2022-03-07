@@ -1,0 +1,22 @@
+.bg-container{
+    background-image:linear-gradient(to right, #1d976c,#93f9b9);
+    height:100vh;
+    background-size:cover;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    color:white;
+}
+.app-container{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items:center;
+}
+.image{
+    height:60%;
+    width:60%;
+}
+.search-container{
+    padding-left:40px;
+}
